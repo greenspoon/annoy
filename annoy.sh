@@ -1,6 +1,6 @@
 while true; do
 
 say idiot
-sleep 10
+sleep 15m
 
 done
